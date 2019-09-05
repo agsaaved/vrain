@@ -13,11 +13,11 @@ Here we provide datasets of a comprehensive set of uplink experiments between on
 "net_load": Mean load of Poisson-generated traffic (% of the saturation throughput with MCS 18)  
 "throughput": Mean throughput measured (using TBS) (Mb/s)  
 "txgain": TX gain at the UE  
-"what": Type of device  
+"what": Type of host (computing) device  
 
 
 - srslte_v19.03.csv is a newer and more comprehensive datased using srsLTE v.19.03  
-"device": Type of device  
+"device": Type of host (computing) device  
 "cpu": CPU policy as defined in DOI: 10.1145/3300061.3345431  
 "mcs": Fix MCS used for uplink transmission  
 "txpower": Tx power at the UE (dBm)  
