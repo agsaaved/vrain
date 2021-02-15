@@ -50,6 +50,8 @@ If you use any code please cite the following:
   year={2020},
   publisher={IEEE}
 }
+```
+```
 @inproceedings{ayala2019vrain,
   title={vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs},
   author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Gramaglia, Marco and Costa-Perez, Xavier and Banchs, Albert and Alcaraz, Juan J},
