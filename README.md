@@ -39,3 +39,23 @@ Here we provide datasets of a comprehensive set of uplink experiments between on
 "mean_lates": Mean number of Lates (L) from UHD driver
 "count": Number of experiments to compute mean and std. dev with equal configuration of <device, cpu, max_mcs, mean_txpower, mean_traffic_load>
 
+
+## Citing Work
+If you use any code please cite the following:
+```
+@article{ayala2020vrain,
+  title={vrAIn: Deep Learning based Orchestration for Computing and Radio Resources in vRANs},
+  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Gramaglia, Marco and Costa-Perez, Xavier and Banchs, Albert and Alcaraz, Juan J},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2020},
+  publisher={IEEE}
+}
+@inproceedings{ayala2019vrain,
+  title={vrAIn: A deep learning approach tailoring computing and radio resources in virtualized RANs},
+  author={Ayala-Romero, Jose A and Garcia-Saavedra, Andres and Gramaglia, Marco and Costa-Perez, Xavier and Banchs, Albert and Alcaraz, Juan J},
+  booktitle={The 25th Annual International Conference on Mobile Computing and Networking},
+  pages={1--16},
+  year={2019}
+
+```
+
